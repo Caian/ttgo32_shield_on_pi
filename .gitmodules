@@ -1,0 +1,6 @@
+[submodule "deps/piduino"]
+	path = deps/piduino
+	url = https://github.com/epsilonrt/piduino
+[submodule "deps/arduino-lmic"]
+	path = deps/arduino-lmic
+	url = https://github.com/mcci-catena/arduino-lmic
